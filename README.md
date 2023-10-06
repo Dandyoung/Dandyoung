@@ -1,12 +1,12 @@
 ### Hi ㅎㅎ 👋
-안녕안녕
+안녕안녕ㅇㅇ
+
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/notion-#000000?style=plastic&logo=notion&logoColor=로고색상"/></a>
 <!--
 **Dandyoung/Dandyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/notion-#000000?style=plastic&logo=notion&logoColor=로고색상"/></a>
 
 
 - 🔭 I’m currently working on ...
